@@ -4,8 +4,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(to bottom, #1a1c24, #232733, #2c3242, #343d52, #3d4963, #435570, #49617e, #4f6e8b, #567d97, #5f8ca2, #6a9bad, #76aab7);
-  background-size: auto;
+background-image: linear-gradient(to top, #051733, #1b2358, #432a79, #752792, #ae03a2);  background-size: auto;
   background-position: center;
 }
 
